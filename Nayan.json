@@ -7,8 +7,8 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "SUNNY-bot",
-  "PREFIX": "/",
+  "BOTNAME": "LIKHON - BOT",
+  "PREFIX": "-",
   "OPERATOR": [
     "",
     "100092795234933"
