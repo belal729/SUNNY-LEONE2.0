@@ -7,14 +7,14 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "nayan-bot",
+  "BOTNAME": "SUNNY-bot",
   "PREFIX": "/",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "",
+    "100092795234933"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "100092795234933",
     ""
   ],
   "OWNER": ["100000959749712"], 
